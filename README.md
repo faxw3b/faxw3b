@@ -15,7 +15,7 @@
       />
   </picture>
   </div>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=FaxWeb7&label=Profile%20Visits&style=for-the-badge" />
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=faxw3b&label=Profile%20Visits&style=for-the-badge" />
   <br>
 </div>
 
@@ -43,11 +43,11 @@
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
     <h2>:fire: My Stats</h2>
     <a style="display: flex; align-items: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaxWeb7&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faxw3b&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
     </a>
     <a style="display: flex;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FaxWeb7&theme=dark" style="margin-right: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FaxWeb7&theme=dark">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faxw3b&theme=dark" style="margin-right: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faxw3b&theme=dark">
     </a>
 </div>
 
